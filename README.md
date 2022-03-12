@@ -1,2 +1,3 @@
 # gitreponew
-learning git
+goodnight
+bye bye goodnight
